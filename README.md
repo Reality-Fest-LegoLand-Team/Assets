@@ -1,4 +1,4 @@
-# Lego Land Team
+````# Lego Land Team
 
 # Unity Version: 
 Unity version: 2019.4.31f1- Current version thats compatible with VRChat
@@ -9,5 +9,5 @@ Unity version: 2019.4.31f1- Current version thats compatible with VRChat
 3. Fantasy Skybox FREE
 4. VRChat SDK3 - worlds
 
-# Team created assets:
+# Team created assets
 * [team created assets](https://github.com/Reality-Fest-LegoLand-Team/Lego-Land-Project/tree/main/Assets/)

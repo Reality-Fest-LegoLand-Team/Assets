@@ -1,4 +1,4 @@
-````# Lego Land Team
+# Lego Land Team
 
 # Unity Version: 
 Unity version: 2019.4.31f1- Current version thats compatible with VRChat

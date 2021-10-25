@@ -10,3 +10,4 @@ Unity version: 2019.4.31f1- Current version thats compatible with VRChat
 4. VRChat SDK3 - worlds
 
 # Team created assets:
+* [team created assets](https://github.com/Reality-Fest-LegoLand-Team/Lego-Land-Project/tree/main/Assets/)

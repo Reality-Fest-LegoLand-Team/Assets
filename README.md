@@ -6,7 +6,7 @@
 Unity version: 2019.4.31f1- Current version thats compatible with VRChat
 
 ## Assets to download (in Unity store)
-To recreate the scene in Unity3D, download:
+To recreate the scene in Unity3D, download this repo and download:
 1. Low Poly Cliff Pack
 2. Sci-Fi Styled Modular Pack
 3. Fantasy Skybox FREE

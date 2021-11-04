@@ -1,5 +1,13 @@
 # Lego Land Team
 
+
+
+# Project Link on VRChat Platform
+* [Project Link](https://vrchat.com/home/launch?worldId=wrld_22eeb9da-9c9f-43c3-bac0-99544c04ecd7)
+
+# Project Presetation
+* [Presentation Link](https://docs.google.com/presentation/d/1kDvLxX-uCuwvd3xbxuLPkpVYSP_Fvw5b/edit?usp=sharing&ouid=115498708412021760091&rtpof=true&sd=true)
+
 # Unity Version
 Unity version: 2019.4.31f1- Current version thats compatible with VRChat
 
